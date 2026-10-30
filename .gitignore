@@ -1,0 +1,33 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.iml
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Logs e temporários
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# Builds e dependências comuns
+build/
+dist/
+out/
+coverage/
+node_modules/
+
+.env

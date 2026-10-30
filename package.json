@@ -1,0 +1,16 @@
+{
+  "name": "nexo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "NEXO — protótipo funcional de plataforma corporativa de gerenciamento integrado de projetos",
+  "scripts": {
+    "install:all": "npm --prefix frontend install",
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "typecheck": "npm --prefix frontend run typecheck"
+  },
+  "engines": {
+    "node": ">=22.22"
+  }
+}
