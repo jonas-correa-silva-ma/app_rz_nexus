@@ -1,6 +1,6 @@
 # Regras de negócio
 
-As regras estão implementadas em `frontend/src/domain/rules.ts` (funções puras) e, quando envolvem gravação, nos serviços em `frontend/src/services/local/`. Todos os indicadores são calculados a partir dos registros, sem valores fixos.
+As regras estão implementadas em `src/domain/rules.ts` (funções puras) e, quando envolvem gravação, nos serviços em `src/services/local/`. Todos os indicadores são calculados a partir dos registros, sem valores fixos.
 
 ## Progresso do projeto (configurável)
 
